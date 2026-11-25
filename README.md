@@ -2,7 +2,7 @@
 
 Environmental Studies graduate (M.Sc., University of Delhi, 2026) with a Physics background (B.Sc., University of Calicut). I work with **GIS and satellite data** to understand how land, vegetation and temperature change over time, and I'm building towards a career in **climate, ESG and environmental data analysis**.
 
-📍 Kozhikode, Kerala, India · open to relocating (Delhi-NCR preferred)
+📍 Kozhikode, Kerala, India · open to relocating 
 
 ## What I work with
 
