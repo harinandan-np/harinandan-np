@@ -28,4 +28,4 @@ IBM: Introduction to Data Analytics · Getting Started with Microsoft Excel · S
 
 ## Get in touch
 
-📧 EMAIL_HERE · 💼 [LinkedIn](https://www.linkedin.com/in/harinandan4916/)
+📧 harinandan4916@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/harinandan4916/)
